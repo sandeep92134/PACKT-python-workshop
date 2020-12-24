@@ -9,3 +9,6 @@
 - module-4 Extending Python, Files, Errors, and Graphs
 
 - module-5 Constructing Python: Classes and Methods
+
+- module-6 The Standard Lib.
+
