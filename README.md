@@ -12,3 +12,4 @@
 
 - module-6 The Standard Lib.
 
+- module-7 becoming Pythonic.
