@@ -13,3 +13,5 @@
 - module-6 The Standard Lib.
 
 - module-7 Becoming Pythonic.
+
+- module-8 Software Development.
