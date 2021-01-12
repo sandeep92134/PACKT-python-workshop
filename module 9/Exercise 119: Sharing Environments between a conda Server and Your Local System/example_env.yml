@@ -1,0 +1,4 @@
+name: example_env
+channels:
+  - defaults
+prefix: C:\Users\Sandeep\anaconda3\envs\example_env
